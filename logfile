@@ -1019,3 +1019,323 @@
 2025-11-26 10:55:33.171 -04 [27386] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
 2025-11-26 10:55:33.171 -04 [27382] ERROR:  could not serialize access due to concurrent update
 2025-11-26 10:55:33.171 -04 [27382] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 11:00:54.805 -04 [22369] LOG:  unexpected EOF on client connection with an open transaction
+2025-11-26 11:19:44.169 -04 [38178] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 11:19:44.169 -04 [38178] LOG:  could not bind IPv4 address "127.0.0.1": Endereço já em uso
+2025-11-26 11:19:44.169 -04 [38178] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 11:19:44.169 -04 [38178] WARNING:  could not create listen socket for "127.0.0.1"
+2025-11-26 11:19:44.169 -04 [38178] FATAL:  could not create any TCP/IP sockets
+2025-11-26 11:19:44.170 -04 [38178] LOG:  database system is shut down
+2025-11-26 11:19:44.358 -04 [38180] FATAL:  could not open file "global/pg_filenode.map": Arquivo ou diretório inexistente
+2025-11-26 11:19:44.465 -04 [38182] FATAL:  could not open file "global/pg_filenode.map": Arquivo ou diretório inexistente
+2025-11-26 11:19:44.574 -04 [38184] FATAL:  could not open file "global/pg_filenode.map": Arquivo ou diretório inexistente
+2025-11-26 11:19:55.597 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:56.241 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:56.242 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:56.887 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:56.887 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:57.535 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:57.535 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:58.180 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:58.180 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:58.824 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:58.824 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:59.470 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:19:59.470 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:00.116 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:00.116 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:00.761 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:00.761 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:01.406 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:01.406 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:02.052 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:02.052 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:02.700 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:02.700 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:03.349 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:03.349 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:03.997 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:03.997 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:04.648 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:04.648 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:05.299 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:05.299 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:05.705 -04 [22289] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-11-26 11:20:05.705 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:05.713 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:06.358 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:06.358 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:07.008 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:07.008 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:07.658 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:07.658 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:08.306 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:08.306 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:08.955 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:08.955 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:09.601 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:09.601 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:10.250 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:10.250 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:10.898 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:10.898 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:11.548 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:11.548 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:12.198 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:12.198 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:12.843 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:12.843 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:13.488 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:13.488 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:14.135 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:14.135 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:14.785 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:14.785 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:15.434 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:15.434 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:15.840 -04 [22289] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-11-26 11:20:15.840 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:15.840 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:16.489 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:16.489 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:17.137 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:17.137 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:17.786 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:17.786 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:18.435 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:18.435 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:19.082 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:19.082 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:19.728 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:19.728 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:20.373 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:20.373 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:21.021 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:21.021 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:21.670 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:21.670 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:22.320 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:22.320 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:22.970 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:22.970 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:23.618 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:23.618 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:24.265 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:24.265 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:24.915 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:24.915 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:25.563 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:25.563 -04 [22290] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:25.968 -04 [22289] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-11-26 11:20:44.581 -04 [22284] LOG:  could not open file "postmaster.pid": Arquivo ou diretório inexistente
+2025-11-26 11:20:44.581 -04 [22284] LOG:  performing immediate shutdown because data directory lock file is invalid
+2025-11-26 11:20:44.582 -04 [22284] LOG:  received immediate shutdown request
+2025-11-26 11:20:44.582 -04 [22284] LOG:  could not open file "postmaster.pid": Arquivo ou diretório inexistente
+2025-11-26 11:20:44.582 -04 [22290] LOG:  could not open temporary statistics file "pg_stat/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 11:20:44.594 -04 [22284] LOG:  database system is shut down
+2025-11-26 11:21:26.361 -04 [38913] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 11:21:26.361 -04 [38913] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 11:21:26.362 -04 [38913] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 11:21:26.363 -04 [38913] LOG:  database system is shut down
+2025-11-26 11:21:41.679 -04 [39044] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 11:21:41.679 -04 [39044] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 11:21:41.680 -04 [39044] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 11:21:41.682 -04 [39045] LOG:  database system was shut down at 2025-11-26 11:21:41 -04
+2025-11-26 11:21:41.684 -04 [39044] LOG:  database system is ready to accept connections
+2025-11-26 11:21:42.253 -04 [39044] LOG:  received fast shutdown request
+2025-11-26 11:21:42.261 -04 [39044] LOG:  aborting any active transactions
+2025-11-26 11:21:42.262 -04 [39044] LOG:  background worker "logical replication launcher" (PID 39051) exited with exit code 1
+2025-11-26 11:21:42.262 -04 [39046] LOG:  shutting down
+2025-11-26 11:21:42.269 -04 [39044] LOG:  database system is shut down
+2025-11-26 11:21:46.060 -04 [39090] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 11:21:46.060 -04 [39090] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 11:21:46.061 -04 [39090] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 11:21:46.062 -04 [39090] LOG:  database system is shut down
+2025-11-26 11:22:28.898 -04 [39407] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 11:22:28.898 -04 [39407] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 11:22:28.899 -04 [39407] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 11:22:28.901 -04 [39408] LOG:  database system was shut down at 2025-11-26 11:22:28 -04
+2025-11-26 11:22:28.903 -04 [39407] LOG:  database system is ready to accept connections
+2025-11-26 11:26:55.460 -04 [41362] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:55.460 -04 [41362] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:26:55.460 -04 [41362] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:55.460 -04 [41362] STATEMENT:  COMMIT
+2025-11-26 11:26:57.494 -04 [41390] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:57.494 -04 [41390] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:26:57.494 -04 [41390] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:57.494 -04 [41390] STATEMENT:  COMMIT
+2025-11-26 11:26:57.494 -04 [41389] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:57.494 -04 [41389] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:26:57.494 -04 [41389] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:57.494 -04 [41389] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 11:26:57.495 -04 [41388] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:57.495 -04 [41388] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:26:57.495 -04 [41388] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:57.495 -04 [41388] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 11:26:58.508 -04 [41396] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:58.508 -04 [41396] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:26:58.508 -04 [41396] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:58.508 -04 [41396] STATEMENT:  COMMIT
+2025-11-26 11:26:58.508 -04 [41397] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:58.508 -04 [41397] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:26:58.508 -04 [41397] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:58.508 -04 [41397] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 11:26:59.521 -04 [41409] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:26:59.521 -04 [41409] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:26:59.521 -04 [41409] HINT:  The transaction might succeed if retried.
+2025-11-26 11:26:59.521 -04 [41409] STATEMENT:  COMMIT
+2025-11-26 11:27:01.557 -04 [41442] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:01.557 -04 [41442] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:01.557 -04 [41442] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:01.557 -04 [41442] STATEMENT:  COMMIT
+2025-11-26 11:27:01.557 -04 [41441] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:01.557 -04 [41441] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:01.557 -04 [41441] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:01.557 -04 [41441] STATEMENT:  COMMIT
+2025-11-26 11:27:01.557 -04 [41439] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:01.557 -04 [41439] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:01.557 -04 [41439] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:01.557 -04 [41439] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 11:27:01.557 -04 [41443] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:01.557 -04 [41443] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:01.557 -04 [41443] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:01.557 -04 [41443] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 11:27:01.565 -04 [41444] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:01.565 -04 [41444] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 11:27:02.570 -04 [41450] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:02.570 -04 [41450] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:02.570 -04 [41450] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:02.570 -04 [41450] STATEMENT:  COMMIT
+2025-11-26 11:27:02.570 -04 [41452] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:02.570 -04 [41452] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:02.570 -04 [41452] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:02.570 -04 [41452] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 11:27:02.570 -04 [41453] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:02.570 -04 [41453] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:02.570 -04 [41453] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:02.570 -04 [41453] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 11:27:02.579 -04 [41454] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:02.579 -04 [41454] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:02.579 -04 [41454] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:02.579 -04 [41454] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 11:27:03.583 -04 [41473] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:03.583 -04 [41473] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:03.583 -04 [41473] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:03.583 -04 [41473] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 11:27:03.583 -04 [41474] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:03.583 -04 [41474] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:03.583 -04 [41474] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:03.583 -04 [41474] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 11:27:03.592 -04 [41475] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:03.592 -04 [41475] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:03.592 -04 [41475] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:03.592 -04 [41475] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 11:27:04.597 -04 [41478] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:04.597 -04 [41478] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:04.597 -04 [41478] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:04.597 -04 [41478] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 11:27:04.606 -04 [41479] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:04.606 -04 [41479] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 11:27:05.620 -04 [41492] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:05.620 -04 [41492] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 11:27:07.662 -04 [41531] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.662 -04 [41531] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:07.662 -04 [41531] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.662 -04 [41531] STATEMENT:  COMMIT
+2025-11-26 11:27:07.662 -04 [41529] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.662 -04 [41529] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:07.662 -04 [41529] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.662 -04 [41529] STATEMENT:  COMMIT
+2025-11-26 11:27:07.662 -04 [41530] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.662 -04 [41530] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:07.662 -04 [41530] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.662 -04 [41530] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 11:27:07.662 -04 [41535] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.662 -04 [41535] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:07.662 -04 [41535] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.662 -04 [41535] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 11:27:07.662 -04 [41533] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.662 -04 [41533] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:07.662 -04 [41533] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.662 -04 [41533] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 11:27:07.663 -04 [41534] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.663 -04 [41534] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:07.663 -04 [41534] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.663 -04 [41534] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 11:27:07.663 -04 [41536] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:07.663 -04 [41536] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:07.663 -04 [41536] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:07.663 -04 [41536] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 11:27:08.675 -04 [41540] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:08.675 -04 [41540] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:08.675 -04 [41540] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:08.675 -04 [41540] STATEMENT:  COMMIT
+2025-11-26 11:27:08.675 -04 [41539] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:08.675 -04 [41539] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:08.675 -04 [41539] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:08.675 -04 [41539] STATEMENT:  COMMIT
+2025-11-26 11:27:08.675 -04 [41537] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:08.675 -04 [41537] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:08.675 -04 [41537] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:08.675 -04 [41537] STATEMENT:  COMMIT
+2025-11-26 11:27:08.675 -04 [41541] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:08.675 -04 [41541] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:08.675 -04 [41541] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:08.675 -04 [41541] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 11:27:08.676 -04 [41542] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:08.676 -04 [41542] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:08.676 -04 [41542] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:08.676 -04 [41542] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 11:27:08.676 -04 [41543] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:08.676 -04 [41543] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:08.676 -04 [41543] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:08.676 -04 [41543] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 11:27:09.689 -04 [41560] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:09.689 -04 [41560] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:09.689 -04 [41560] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:09.689 -04 [41560] STATEMENT:  COMMIT
+2025-11-26 11:27:09.689 -04 [41558] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:09.689 -04 [41558] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:09.689 -04 [41558] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:09.689 -04 [41558] STATEMENT:  COMMIT
+2025-11-26 11:27:09.689 -04 [41562] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:09.689 -04 [41562] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:09.689 -04 [41562] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:09.689 -04 [41562] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 11:27:09.697 -04 [41559] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:09.697 -04 [41559] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 11:27:09.697 -04 [41561] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:09.697 -04 [41561] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 11:27:10.702 -04 [41565] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:10.702 -04 [41565] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 11:27:10.702 -04 [41565] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:10.702 -04 [41565] STATEMENT:  COMMIT
+2025-11-26 11:27:10.710 -04 [41564] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:10.710 -04 [41564] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 11:27:10.711 -04 [41567] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:10.711 -04 [41567] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 11:27:10.712 -04 [41568] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:10.712 -04 [41568] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:10.712 -04 [41568] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:10.712 -04 [41568] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 11:27:11.725 -04 [41584] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:11.725 -04 [41584] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:11.725 -04 [41584] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:11.725 -04 [41584] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 11:27:11.725 -04 [41583] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:11.725 -04 [41583] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 11:27:11.726 -04 [41585] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:11.726 -04 [41585] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:11.726 -04 [41585] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:11.726 -04 [41585] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 11:27:12.745 -04 [41592] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:12.745 -04 [41592] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:12.745 -04 [41592] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:12.745 -04 [41592] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 11:27:12.746 -04 [41591] ERROR:  could not serialize access due to concurrent update
+2025-11-26 11:27:12.746 -04 [41591] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 11:27:13.767 -04 [41610] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 11:27:13.767 -04 [41610] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 11:27:13.767 -04 [41610] HINT:  The transaction might succeed if retried.
+2025-11-26 11:27:13.767 -04 [41610] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 11:40:48.051 -04 [39450] LOG:  unexpected EOF on client connection with an open transaction
