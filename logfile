@@ -1,0 +1,1164 @@
+2025-11-26 08:20:38.425 -04 [95104] FATAL:  lock file "postmaster.pid" already exists
+2025-11-26 08:20:38.425 -04 [95104] HINT:  Is another postmaster (PID 56471) running in data directory "/Users/michaelwillian/Documents/Repositórios/TP3_BD1_2025-02/./meu_postgres"?
+2025-11-26 08:22:21.985 -04 [95554] FATAL:  lock file "postmaster.pid" already exists
+2025-11-26 08:22:21.985 -04 [95554] HINT:  Is another postmaster (PID 56471) running in data directory "/Users/michaelwillian/Documents/Repositórios/TP3_BD1_2025-02/./meu_postgres"?
+2025-11-26 08:22:30.018 -04 [95590] FATAL:  lock file "postmaster.pid" already exists
+2025-11-26 08:22:30.018 -04 [95590] HINT:  Is another postmaster (PID 56471) running in data directory "/Users/michaelwillian/Documents/Repositórios/TP3_BD1_2025-02/./meu_postgres"?
+2025-11-26 08:23:08.245 -04 [95764] FATAL:  lock file "postmaster.pid" already exists
+2025-11-26 08:23:08.245 -04 [95764] HINT:  Is another postmaster (PID 56471) running in data directory "/Users/michaelwillian/Documents/Repositórios/TP3_BD1_2025-02/./meu_postgres"?
+2025-11-26 08:23:36.674 -04 [95915] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:23:36.674 -04 [95915] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:23:36.674 -04 [95915] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:23:36.674 -04 [95915] WARNING:  could not create listen socket for "127.0.0.1"
+2025-11-26 08:23:36.674 -04 [95915] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:23:36.675 -04 [95915] LOG:  database system is shut down
+2025-11-26 08:24:17.214 -04 [96105] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:24:17.215 -04 [96105] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:24:17.215 -04 [96105] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:24:17.215 -04 [96105] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:24:17.215 -04 [96105] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:24:17.215 -04 [96105] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:24:17.215 -04 [96105] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:24:17.215 -04 [96105] LOG:  database system is shut down
+2025-11-26 08:24:44.563 -04 [96227] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:24:44.565 -04 [96227] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:24:44.565 -04 [96227] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:24:44.565 -04 [96227] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:24:44.565 -04 [96227] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:24:44.565 -04 [96227] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:24:44.565 -04 [96227] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:24:44.565 -04 [96227] LOG:  database system is shut down
+2025-11-26 08:24:59.125 -04 [96298] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:24:59.126 -04 [96298] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:24:59.126 -04 [96298] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:24:59.126 -04 [96298] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:24:59.126 -04 [96298] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:24:59.126 -04 [96298] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:24:59.126 -04 [96298] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:24:59.127 -04 [96298] LOG:  database system is shut down
+2025-11-26 08:26:35.972 -04 [96730] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:26:35.973 -04 [96730] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:26:35.973 -04 [96730] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:26:35.973 -04 [96730] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:26:35.973 -04 [96730] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:26:35.973 -04 [96730] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:26:35.973 -04 [96730] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:26:35.974 -04 [96730] LOG:  database system is shut down
+2025-11-26 08:28:45.994 -04 [97295] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:28:45.995 -04 [97295] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:28:45.995 -04 [97295] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:28:45.995 -04 [97295] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:28:45.995 -04 [97295] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:28:45.995 -04 [97295] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:28:45.995 -04 [97295] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:28:45.996 -04 [97295] LOG:  database system is shut down
+2025-11-26 08:31:30.441 -04 [97581] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:31:30.444 -04 [97581] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:31:30.444 -04 [97581] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:31:30.444 -04 [97581] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:31:30.444 -04 [97581] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:31:30.444 -04 [97581] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:31:30.444 -04 [97581] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:31:30.444 -04 [97581] LOG:  database system is shut down
+2025-11-26 08:33:11.987 -04 [97758] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:33:11.988 -04 [97758] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:33:11.988 -04 [97758] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:33:11.988 -04 [97758] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:33:11.988 -04 [97758] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-11-26 08:33:11.988 -04 [97758] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:33:11.988 -04 [97758] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:33:11.989 -04 [97758] LOG:  database system is shut down
+2025-11-26 08:35:23.443 -04 [97988] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:35:23.444 -04 [97988] LOG:  listening on IPv6 address "::1", port 5433
+2025-11-26 08:35:23.444 -04 [97988] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 08:35:23.445 -04 [97988] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2025-11-26 08:35:23.447 -04 [97989] LOG:  database system was shut down at 2025-11-26 08:35:23 -04
+2025-11-26 08:35:23.449 -04 [97988] LOG:  database system is ready to accept connections
+2025-11-26 08:35:48.638 -04 [98058] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:35:48.640 -04 [98058] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:35:48.640 -04 [98058] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:35:48.640 -04 [98058] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:35:48.640 -04 [98058] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:35:48.640 -04 [98058] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:35:48.640 -04 [98058] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:35:48.640 -04 [98058] LOG:  database system is shut down
+2025-11-26 08:35:49.034 -04 [98061] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:35:59.552 -04 [98095] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:35:59.554 -04 [98095] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:35:59.554 -04 [98095] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:35:59.554 -04 [98095] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:35:59.554 -04 [98095] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:35:59.554 -04 [98095] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:35:59.554 -04 [98095] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:35:59.554 -04 [98095] LOG:  database system is shut down
+2025-11-26 08:35:59.953 -04 [98099] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:36:23.460 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:24.158 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:24.159 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:24.860 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:24.860 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:25.564 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:25.564 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:26.266 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:26.267 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:26.970 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:26.970 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:27.676 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:27.677 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:28.381 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:28.381 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:29.093 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:29.093 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:29.794 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:29.795 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:30.499 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:30.499 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:31.199 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:31.199 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:31.902 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:31.902 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:32.605 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:32.605 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:33.305 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:33.305 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:34.007 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:34.008 -04 [97994] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:36:34.444 -04 [97993] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-11-26 08:36:59.958 -04 [97988] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:36:59.958 -04 [97988] LOG:  performing immediate shutdown because data directory lock file is invalid
+2025-11-26 08:36:59.958 -04 [97988] LOG:  received immediate shutdown request
+2025-11-26 08:36:59.958 -04 [97988] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:36:59.959 -04 [97994] LOG:  could not open temporary statistics file "pg_stat/global.tmp": No such file or directory
+2025-11-26 08:36:59.964 -04 [97988] LOG:  database system is shut down
+2025-11-26 08:37:53.016 -04 [98288] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:37:53.018 -04 [98288] LOG:  listening on IPv6 address "::1", port 5433
+2025-11-26 08:37:53.018 -04 [98288] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 08:37:53.018 -04 [98288] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2025-11-26 08:37:53.020 -04 [98289] LOG:  database system was shut down at 2025-11-26 08:37:52 -04
+2025-11-26 08:37:53.022 -04 [98288] LOG:  database system is ready to accept connections
+2025-11-26 08:39:57.559 -04 [98511] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:39:57.562 -04 [98511] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:39:57.562 -04 [98511] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:39:57.562 -04 [98511] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:39:57.562 -04 [98511] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:39:57.562 -04 [98511] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:39:57.562 -04 [98511] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:39:57.563 -04 [98511] LOG:  database system is shut down
+2025-11-26 08:39:57.955 -04 [98517] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:40:53.247 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:53.950 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:53.950 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:54.654 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:54.654 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:55.355 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:55.355 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:56.059 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:56.060 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:56.765 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:56.765 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:57.468 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:57.468 -04 [98294] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:40:57.957 -04 [98288] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:40:57.957 -04 [98288] LOG:  performing immediate shutdown because data directory lock file is invalid
+2025-11-26 08:40:57.957 -04 [98288] LOG:  received immediate shutdown request
+2025-11-26 08:40:57.957 -04 [98288] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:40:57.957 -04 [98294] LOG:  could not open temporary statistics file "pg_stat/global.tmp": No such file or directory
+2025-11-26 08:40:57.958 -04 [98288] LOG:  database system is shut down
+2025-11-26 08:40:58.552 -04 [98625] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:40:58.553 -04 [98625] LOG:  listening on IPv6 address "::1", port 5433
+2025-11-26 08:40:58.553 -04 [98625] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 08:40:58.554 -04 [98625] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2025-11-26 08:40:58.555 -04 [98626] LOG:  database system was shut down at 2025-11-26 08:40:58 -04
+2025-11-26 08:40:58.557 -04 [98625] LOG:  database system is ready to accept connections
+2025-11-26 08:43:04.442 -04 [98864] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:43:04.443 -04 [98864] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:43:04.443 -04 [98864] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:43:04.443 -04 [98864] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:43:04.443 -04 [98864] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:43:04.443 -04 [98864] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:43:04.443 -04 [98864] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:43:04.443 -04 [98864] LOG:  database system is shut down
+2025-11-26 08:43:04.847 -04 [98867] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:05.155 -04 [98870] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:05.465 -04 [98873] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:05.776 -04 [98876] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:10.994 -04 [98906] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:43:10.996 -04 [98906] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:43:10.996 -04 [98906] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:43:10.996 -04 [98906] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:43:10.996 -04 [98906] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:43:10.996 -04 [98906] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:43:10.996 -04 [98906] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:43:10.996 -04 [98906] LOG:  database system is shut down
+2025-11-26 08:43:11.391 -04 [98909] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:11.700 -04 [98912] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:12.010 -04 [98915] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:12.318 -04 [98921] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:29.274 -04 [98965] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:43:29.276 -04 [98965] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:43:29.276 -04 [98965] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:43:29.276 -04 [98965] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:43:29.276 -04 [98965] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:43:29.276 -04 [98965] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:43:29.276 -04 [98965] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:43:29.276 -04 [98965] LOG:  database system is shut down
+2025-11-26 08:43:29.681 -04 [98968] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:29.987 -04 [98971] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:30.297 -04 [98974] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:30.601 -04 [98977] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:43:58.782 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:43:59.484 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:43:59.484 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:00.194 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:00.194 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:00.895 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:00.896 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:01.597 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:01.597 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:02.297 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:02.297 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:03.003 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:03.003 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:03.703 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:03.704 -04 [98631] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2025-11-26 08:44:03.737 -04 [99047] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:44:03.738 -04 [99047] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:44:03.738 -04 [99047] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:44:03.738 -04 [99047] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:44:03.738 -04 [99047] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:44:03.738 -04 [99047] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:44:03.738 -04 [99047] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:44:03.738 -04 [99047] LOG:  database system is shut down
+2025-11-26 08:44:04.132 -04 [98625] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:44:04.132 -04 [98625] LOG:  performing immediate shutdown because data directory lock file is invalid
+2025-11-26 08:44:04.132 -04 [98625] LOG:  received immediate shutdown request
+2025-11-26 08:44:04.132 -04 [98625] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:44:04.132 -04 [98631] LOG:  could not open temporary statistics file "pg_stat/global.tmp": No such file or directory
+2025-11-26 08:44:04.134 -04 [98625] LOG:  database system is shut down
+2025-11-26 08:44:23.856 -04 [99099] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:44:23.857 -04 [99099] LOG:  listening on IPv6 address "::1", port 5433
+2025-11-26 08:44:23.857 -04 [99099] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 08:44:23.858 -04 [99099] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2025-11-26 08:44:23.859 -04 [99100] LOG:  database system was shut down at 2025-11-26 08:44:23 -04
+2025-11-26 08:44:23.861 -04 [99099] LOG:  database system is ready to accept connections
+2025-11-26 08:44:51.474 -04 [99183] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:44:51.475 -04 [99183] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:44:51.475 -04 [99183] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:44:51.475 -04 [99183] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:44:51.475 -04 [99183] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:44:51.475 -04 [99183] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:44:51.475 -04 [99183] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:44:51.475 -04 [99183] LOG:  database system is shut down
+2025-11-26 08:44:51.880 -04 [99186] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:44:52.186 -04 [99189] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:44:52.493 -04 [99195] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:45:14.996 -04 [99245] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:45:14.997 -04 [99245] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:45:14.997 -04 [99245] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:45:14.997 -04 [99245] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:45:14.997 -04 [99245] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:45:14.997 -04 [99245] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:45:14.997 -04 [99245] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:45:14.997 -04 [99245] LOG:  database system is shut down
+2025-11-26 08:45:15.395 -04 [99248] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:45:15.703 -04 [99251] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:45:16.005 -04 [99257] FATAL:  could not open file "global/pg_filenode.map": No such file or directory
+2025-11-26 08:45:23.267 -04 [99291] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:45:23.269 -04 [99291] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-11-26 08:45:23.269 -04 [99291] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:45:23.269 -04 [99291] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-11-26 08:45:23.269 -04 [99291] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 08:45:23.269 -04 [99291] WARNING:  could not create listen socket for "localhost"
+2025-11-26 08:45:23.269 -04 [99291] FATAL:  could not create any TCP/IP sockets
+2025-11-26 08:45:23.269 -04 [99291] LOG:  database system is shut down
+2025-11-26 08:45:23.659 -04 [99099] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:45:23.659 -04 [99099] LOG:  performing immediate shutdown because data directory lock file is invalid
+2025-11-26 08:45:23.659 -04 [99099] LOG:  received immediate shutdown request
+2025-11-26 08:45:23.659 -04 [99099] LOG:  could not open file "postmaster.pid": No such file or directory
+2025-11-26 08:45:23.659 -04 [99105] LOG:  could not open temporary statistics file "pg_stat/global.tmp": No such file or directory
+2025-11-26 08:45:23.661 -04 [99099] LOG:  database system is shut down
+2025-11-26 08:45:35.678 -04 [99334] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:45:35.679 -04 [99334] LOG:  listening on IPv6 address "::1", port 5433
+2025-11-26 08:45:35.679 -04 [99334] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 08:45:35.680 -04 [99334] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2025-11-26 08:45:35.681 -04 [99335] LOG:  database system was shut down at 2025-11-26 08:45:35 -04
+2025-11-26 08:45:35.684 -04 [99334] LOG:  database system is ready to accept connections
+2025-11-26 08:45:37.044 -04 [99334] LOG:  received fast shutdown request
+2025-11-26 08:45:37.044 -04 [99334] LOG:  aborting any active transactions
+2025-11-26 08:45:37.045 -04 [99334] LOG:  background worker "logical replication launcher" (PID 99341) exited with exit code 1
+2025-11-26 08:45:37.045 -04 [99336] LOG:  shutting down
+2025-11-26 08:45:37.048 -04 [99334] LOG:  database system is shut down
+2025-11-26 08:46:14.599 -04 [99418] LOG:  starting PostgreSQL 14.20 (Homebrew) on aarch64-apple-darwin25.1.0, compiled by Apple clang version 17.0.0 (clang-1700.4.4.1), 64-bit
+2025-11-26 08:46:14.600 -04 [99418] LOG:  listening on IPv6 address "::1", port 5433
+2025-11-26 08:46:14.600 -04 [99418] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 08:46:14.600 -04 [99418] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2025-11-26 08:46:14.603 -04 [99419] LOG:  database system was shut down at 2025-11-26 08:45:37 -04
+2025-11-26 08:46:14.606 -04 [99418] LOG:  database system is ready to accept connections
+2025-11-26 09:09:14.473 -04 [5627] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:14.473 -04 [5627] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:14.473 -04 [5627] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:14.473 -04 [5627] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:15.491 -04 [5636] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:15.491 -04 [5636] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:15.491 -04 [5636] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:15.491 -04 [5636] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:16.513 -04 [5646] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:16.513 -04 [5646] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:16.513 -04 [5646] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:16.513 -04 [5646] STATEMENT:  COMMIT
+2025-11-26 09:09:17.537 -04 [5657] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:17.537 -04 [5657] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:17.537 -04 [5657] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:17.537 -04 [5657] STATEMENT:  COMMIT
+2025-11-26 09:09:18.567 -04 [5667] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:18.567 -04 [5667] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:18.567 -04 [5667] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:18.567 -04 [5667] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:19.586 -04 [5675] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:19.586 -04 [5675] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:19.586 -04 [5675] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:19.586 -04 [5675] STATEMENT:  COMMIT
+2025-11-26 09:09:20.609 -04 [5686] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:20.609 -04 [5686] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:20.609 -04 [5686] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:20.609 -04 [5686] STATEMENT:  COMMIT
+2025-11-26 09:09:21.641 -04 [5695] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:21.641 -04 [5695] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:21.641 -04 [5695] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:21.641 -04 [5695] STATEMENT:  COMMIT
+2025-11-26 09:09:22.678 -04 [5705] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:22.678 -04 [5705] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:22.678 -04 [5705] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:22.678 -04 [5705] STATEMENT:  COMMIT
+2025-11-26 09:09:23.713 -04 [5714] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:23.713 -04 [5714] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:24.778 -04 [5739] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:24.778 -04 [5739] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:24.778 -04 [5739] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:24.778 -04 [5739] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:24.778 -04 [5741] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:24.778 -04 [5741] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:24.778 -04 [5741] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:24.778 -04 [5741] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:24.778 -04 [5738] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:24.778 -04 [5738] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:24.778 -04 [5738] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:24.778 -04 [5738] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:25.802 -04 [5758] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:25.802 -04 [5758] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:25.802 -04 [5758] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:25.802 -04 [5758] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:25.802 -04 [5756] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:25.802 -04 [5756] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:25.802 -04 [5756] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:25.802 -04 [5756] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:25.802 -04 [5757] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:25.802 -04 [5757] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:25.802 -04 [5757] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:25.802 -04 [5757] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:26.820 -04 [5779] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:26.820 -04 [5779] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:26.820 -04 [5776] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:26.820 -04 [5776] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:26.820 -04 [5776] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:26.820 -04 [5776] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:26.821 -04 [5778] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:26.821 -04 [5778] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:26.821 -04 [5778] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:26.821 -04 [5778] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:27.842 -04 [5795] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:27.842 -04 [5795] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:27.842 -04 [5795] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:27.842 -04 [5795] STATEMENT:  COMMIT
+2025-11-26 09:09:27.842 -04 [5793] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:27.842 -04 [5793] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:27.842 -04 [5793] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:27.842 -04 [5793] STATEMENT:  COMMIT
+2025-11-26 09:09:27.842 -04 [5792] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:27.842 -04 [5792] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:28.865 -04 [5813] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:28.865 -04 [5813] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:28.865 -04 [5813] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:28.865 -04 [5813] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:28.865 -04 [5814] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:28.865 -04 [5814] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:28.865 -04 [5814] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:28.865 -04 [5814] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:28.866 -04 [5815] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:28.866 -04 [5815] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:28.866 -04 [5815] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:28.866 -04 [5815] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:29.887 -04 [5831] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:29.887 -04 [5831] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:29.887 -04 [5831] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:29.887 -04 [5831] STATEMENT:  COMMIT
+2025-11-26 09:09:29.887 -04 [5830] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:29.887 -04 [5830] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:29.887 -04 [5830] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:29.887 -04 [5830] STATEMENT:  COMMIT
+2025-11-26 09:09:29.887 -04 [5828] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:29.887 -04 [5828] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:29.887 -04 [5828] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:29.887 -04 [5828] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:30.918 -04 [5849] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:30.918 -04 [5849] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:30.918 -04 [5849] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:30.918 -04 [5849] STATEMENT:  COMMIT
+2025-11-26 09:09:30.919 -04 [5850] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:30.919 -04 [5850] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:30.919 -04 [5850] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:30.919 -04 [5850] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:30.919 -04 [5851] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:30.919 -04 [5851] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:30.919 -04 [5851] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:30.919 -04 [5851] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:31.951 -04 [5870] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:31.951 -04 [5870] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:31.951 -04 [5870] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:31.951 -04 [5870] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:31.952 -04 [5872] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:31.952 -04 [5872] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:31.952 -04 [5872] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:31.952 -04 [5872] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:31.952 -04 [5871] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:31.952 -04 [5871] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:31.952 -04 [5871] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:31.952 -04 [5871] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:32.987 -04 [5891] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:32.987 -04 [5891] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:32.987 -04 [5889] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:32.987 -04 [5889] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:32.987 -04 [5890] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:32.987 -04 [5890] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:32.987 -04 [5890] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:32.987 -04 [5890] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:34.018 -04 [5905] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:34.018 -04 [5905] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:34.018 -04 [5906] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:34.018 -04 [5906] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:34.019 -04 [5907] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:34.019 -04 [5907] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:35.076 -04 [5945] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:35.076 -04 [5945] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:35.076 -04 [5945] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:35.076 -04 [5945] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:35.077 -04 [5943] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:35.077 -04 [5943] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:35.077 -04 [5943] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:35.077 -04 [5943] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:35.077 -04 [5942] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:35.077 -04 [5942] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:35.077 -04 [5942] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:35.077 -04 [5942] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:35.078 -04 [5944] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:35.078 -04 [5944] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:35.078 -04 [5944] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:35.078 -04 [5944] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:35.079 -04 [5946] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:35.079 -04 [5946] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:35.079 -04 [5946] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:35.079 -04 [5946] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:36.113 -04 [5966] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:36.113 -04 [5966] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:36.113 -04 [5966] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:36.113 -04 [5966] STATEMENT:  COMMIT
+2025-11-26 09:09:36.113 -04 [5967] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:36.113 -04 [5967] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:36.113 -04 [5967] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:36.113 -04 [5967] STATEMENT:  COMMIT
+2025-11-26 09:09:36.113 -04 [5968] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:36.113 -04 [5968] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:36.113 -04 [5968] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:36.113 -04 [5968] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:36.118 -04 [5969] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:36.118 -04 [5969] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:36.118 -04 [5969] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:36.118 -04 [5969] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:36.118 -04 [5970] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:36.118 -04 [5970] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:37.153 -04 [5993] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:37.153 -04 [5993] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:37.153 -04 [5994] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:37.153 -04 [5994] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:37.153 -04 [5994] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:37.153 -04 [5994] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:37.153 -04 [5995] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:37.153 -04 [5995] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:37.153 -04 [5995] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:37.153 -04 [5995] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:37.154 -04 [5997] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:37.154 -04 [5997] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:37.154 -04 [5997] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:37.154 -04 [5997] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:37.154 -04 [5996] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:37.154 -04 [5996] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:37.154 -04 [5996] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:37.154 -04 [5996] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:38.184 -04 [6017] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:38.184 -04 [6017] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:38.184 -04 [6017] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:38.184 -04 [6017] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:38.186 -04 [6018] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:38.186 -04 [6018] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:38.186 -04 [6018] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:38.186 -04 [6018] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:38.186 -04 [6013] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:38.186 -04 [6013] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:38.186 -04 [6020] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:38.186 -04 [6020] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:38.189 -04 [6021] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:38.189 -04 [6021] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:38.189 -04 [6021] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:38.189 -04 [6021] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:39.227 -04 [6046] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:39.227 -04 [6046] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:39.227 -04 [6046] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:39.227 -04 [6046] STATEMENT:  COMMIT
+2025-11-26 09:09:39.227 -04 [6044] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:39.227 -04 [6044] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:39.227 -04 [6044] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:39.227 -04 [6044] STATEMENT:  COMMIT
+2025-11-26 09:09:39.227 -04 [6048] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:39.227 -04 [6048] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:39.227 -04 [6048] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:39.227 -04 [6048] STATEMENT:  COMMIT
+2025-11-26 09:09:39.227 -04 [6047] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:39.227 -04 [6047] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:39.227 -04 [6047] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:39.227 -04 [6047] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:39.227 -04 [6045] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:39.227 -04 [6045] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:39.227 -04 [6045] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:39.227 -04 [6045] STATEMENT:  COMMIT
+2025-11-26 09:09:40.263 -04 [6063] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:40.263 -04 [6063] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:40.263 -04 [6063] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:40.263 -04 [6063] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:40.263 -04 [6067] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:40.263 -04 [6067] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:40.263 -04 [6067] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:40.263 -04 [6067] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:40.268 -04 [6070] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:40.268 -04 [6070] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:40.268 -04 [6070] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:40.268 -04 [6070] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:40.269 -04 [6072] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:40.269 -04 [6072] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:40.269 -04 [6072] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:40.269 -04 [6072] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:40.269 -04 [6071] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:40.269 -04 [6071] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:40.269 -04 [6071] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:40.269 -04 [6071] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:41.302 -04 [6095] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:41.302 -04 [6095] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:41.302 -04 [6095] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:41.302 -04 [6095] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:41.305 -04 [6096] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:41.305 -04 [6096] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:41.306 -04 [6099] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:41.306 -04 [6099] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:41.306 -04 [6097] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:41.306 -04 [6097] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:41.307 -04 [6098] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:41.307 -04 [6098] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:42.344 -04 [6123] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:42.344 -04 [6123] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:42.344 -04 [6123] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:42.344 -04 [6123] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:42.346 -04 [6119] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:42.346 -04 [6119] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:42.347 -04 [6121] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:42.347 -04 [6121] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:42.347 -04 [6121] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:42.347 -04 [6121] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:42.346 -04 [6120] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:42.346 -04 [6120] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:42.347 -04 [6122] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:42.347 -04 [6122] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:43.384 -04 [6147] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:43.384 -04 [6147] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:43.384 -04 [6147] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:43.384 -04 [6147] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:43.384 -04 [6149] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:43.384 -04 [6149] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:43.384 -04 [6148] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:43.384 -04 [6148] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:43.385 -04 [6146] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:43.385 -04 [6146] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:43.388 -04 [6150] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:43.388 -04 [6150] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:09:44.429 -04 [6171] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:44.429 -04 [6171] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:44.429 -04 [6172] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:44.429 -04 [6172] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:44.430 -04 [6173] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:44.430 -04 [6173] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:44.430 -04 [6175] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:44.430 -04 [6175] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:44.431 -04 [6174] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:44.431 -04 [6174] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:45.489 -04 [6216] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.489 -04 [6216] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.489 -04 [6216] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.489 -04 [6216] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:45.493 -04 [6219] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.493 -04 [6219] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.493 -04 [6219] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.493 -04 [6219] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:45.494 -04 [6222] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.494 -04 [6222] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.494 -04 [6222] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.494 -04 [6222] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:45.495 -04 [6223] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.495 -04 [6223] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.495 -04 [6223] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.495 -04 [6223] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:45.495 -04 [6225] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.495 -04 [6225] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.495 -04 [6225] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.495 -04 [6225] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:45.496 -04 [6224] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.496 -04 [6224] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.496 -04 [6224] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.496 -04 [6224] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:45.496 -04 [6226] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:45.496 -04 [6226] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:45.496 -04 [6226] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:45.496 -04 [6226] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:46.530 -04 [6257] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.530 -04 [6257] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.530 -04 [6257] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.530 -04 [6257] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:46.530 -04 [6256] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.530 -04 [6256] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.530 -04 [6256] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.530 -04 [6256] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:46.530 -04 [6258] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.530 -04 [6258] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.530 -04 [6258] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.530 -04 [6258] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:46.530 -04 [6252] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.530 -04 [6252] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.530 -04 [6252] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.530 -04 [6252] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:46.531 -04 [6254] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.531 -04 [6254] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.531 -04 [6254] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.531 -04 [6254] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:46.531 -04 [6253] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.531 -04 [6253] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.531 -04 [6253] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.531 -04 [6253] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:46.532 -04 [6255] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:46.532 -04 [6255] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:46.532 -04 [6255] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:46.532 -04 [6255] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:47.563 -04 [6284] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.563 -04 [6284] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.563 -04 [6284] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.563 -04 [6284] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:47.563 -04 [6291] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.563 -04 [6291] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.563 -04 [6291] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.563 -04 [6291] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:47.563 -04 [6285] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.563 -04 [6285] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.563 -04 [6285] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.563 -04 [6285] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:47.565 -04 [6289] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.565 -04 [6289] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.565 -04 [6289] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.565 -04 [6289] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:47.565 -04 [6290] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.565 -04 [6290] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.565 -04 [6290] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.565 -04 [6290] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:47.571 -04 [6293] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.571 -04 [6293] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.571 -04 [6293] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.571 -04 [6293] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:47.571 -04 [6292] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:47.571 -04 [6292] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:47.571 -04 [6292] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:47.571 -04 [6292] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:48.610 -04 [6319] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:48.610 -04 [6319] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:48.610 -04 [6319] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:48.610 -04 [6319] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:48.611 -04 [6318] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:48.611 -04 [6318] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:48.611 -04 [6318] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:48.611 -04 [6318] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:48.612 -04 [6320] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:48.612 -04 [6320] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:48.619 -04 [6323] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:48.619 -04 [6323] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:48.619 -04 [6323] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:48.619 -04 [6323] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:48.619 -04 [6322] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:48.619 -04 [6322] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:48.619 -04 [6325] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:48.619 -04 [6325] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:48.621 -04 [6326] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:48.621 -04 [6326] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:48.621 -04 [6326] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:48.621 -04 [6326] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:49.632 -04 [6350] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:49.632 -04 [6350] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:49.632 -04 [6350] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:49.632 -04 [6350] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:49.632 -04 [6347] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:49.632 -04 [6347] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:49.632 -04 [6347] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:49.632 -04 [6347] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:49.635 -04 [6348] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:49.635 -04 [6348] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:49.635 -04 [6348] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:49.635 -04 [6348] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:49.637 -04 [6358] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:49.637 -04 [6358] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:49.637 -04 [6358] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:49.637 -04 [6358] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:49.639 -04 [6360] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:49.639 -04 [6360] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:49.639 -04 [6360] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:49.639 -04 [6360] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:49.641 -04 [6359] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:49.641 -04 [6359] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:49.646 -04 [6362] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:49.646 -04 [6362] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:49.646 -04 [6362] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:49.646 -04 [6362] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:50.664 -04 [6389] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:50.664 -04 [6389] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:50.664 -04 [6389] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:50.664 -04 [6389] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:50.667 -04 [6387] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:50.667 -04 [6387] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:50.667 -04 [6387] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:50.667 -04 [6387] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:50.668 -04 [6391] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:50.668 -04 [6391] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:50.668 -04 [6391] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:50.668 -04 [6391] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:50.668 -04 [6390] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:50.668 -04 [6390] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:50.668 -04 [6393] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:50.668 -04 [6393] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:50.669 -04 [6388] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:50.669 -04 [6388] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:50.669 -04 [6388] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:50.669 -04 [6388] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:50.673 -04 [6394] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:50.673 -04 [6394] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:51.697 -04 [6423] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:51.697 -04 [6423] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:51.697 -04 [6423] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:51.697 -04 [6423] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:51.697 -04 [6417] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:51.697 -04 [6417] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:51.697 -04 [6417] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:51.697 -04 [6417] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:51.698 -04 [6418] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:51.698 -04 [6418] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:51.699 -04 [6422] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:51.699 -04 [6422] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:51.699 -04 [6422] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:51.699 -04 [6422] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:51.700 -04 [6425] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:51.700 -04 [6425] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:51.700 -04 [6425] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:51.700 -04 [6425] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:51.700 -04 [6424] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:51.700 -04 [6424] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:51.700 -04 [6424] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:51.700 -04 [6424] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:51.702 -04 [6426] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:51.702 -04 [6426] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:51.702 -04 [6426] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:51.702 -04 [6426] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:52.734 -04 [6453] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:52.734 -04 [6453] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:52.734 -04 [6453] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:52.734 -04 [6453] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:52.734 -04 [6457] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:52.734 -04 [6457] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:52.734 -04 [6457] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:52.734 -04 [6457] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:52.735 -04 [6456] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:52.735 -04 [6456] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:52.735 -04 [6458] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:52.735 -04 [6458] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:52.735 -04 [6458] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:52.735 -04 [6458] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:52.737 -04 [6460] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:52.737 -04 [6460] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:52.738 -04 [6461] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:52.738 -04 [6461] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:52.738 -04 [6461] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:52.738 -04 [6461] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:52.738 -04 [6459] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:52.738 -04 [6459] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:52.738 -04 [6459] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:52.738 -04 [6459] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:53.772 -04 [6486] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:53.772 -04 [6486] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:53.772 -04 [6486] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:53.772 -04 [6486] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:53.772 -04 [6487] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:53.772 -04 [6487] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:53.772 -04 [6487] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:53.772 -04 [6487] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:53.774 -04 [6490] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:53.774 -04 [6490] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:53.778 -04 [6489] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:53.778 -04 [6489] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:53.779 -04 [6491] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:53.779 -04 [6491] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:53.779 -04 [6491] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:53.779 -04 [6491] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:53.779 -04 [6492] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:53.779 -04 [6492] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:53.779 -04 [6492] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:53.779 -04 [6492] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:53.779 -04 [6493] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:53.779 -04 [6493] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:53.779 -04 [6493] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:53.779 -04 [6493] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.814 -04 [6521] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.814 -04 [6521] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.814 -04 [6524] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.814 -04 [6524] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.814 -04 [6520] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.814 -04 [6520] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.817 -04 [6523] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.817 -04 [6523] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.818 -04 [6528] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.818 -04 [6528] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.818 -04 [6526] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.818 -04 [6526] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:54.818 -04 [6527] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:54.818 -04 [6527] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:55.897 -04 [6580] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.897 -04 [6580] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.897 -04 [6580] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.897 -04 [6580] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:55.898 -04 [6583] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.898 -04 [6583] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.898 -04 [6583] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.898 -04 [6583] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:55.898 -04 [6585] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.898 -04 [6585] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.898 -04 [6585] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.898 -04 [6585] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:55.898 -04 [6579] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.898 -04 [6579] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.898 -04 [6579] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.898 -04 [6579] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:55.898 -04 [6584] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.898 -04 [6584] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.898 -04 [6584] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.898 -04 [6584] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:55.899 -04 [6581] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.899 -04 [6581] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.899 -04 [6581] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.899 -04 [6581] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:55.903 -04 [6588] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.903 -04 [6588] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.903 -04 [6588] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.903 -04 [6588] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:55.903 -04 [6587] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.903 -04 [6587] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.903 -04 [6587] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.903 -04 [6587] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:55.904 -04 [6586] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:55.904 -04 [6586] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:55.904 -04 [6586] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:55.904 -04 [6586] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:56.935 -04 [6624] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.935 -04 [6624] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.935 -04 [6624] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.935 -04 [6624] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:56.938 -04 [6625] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.938 -04 [6625] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.938 -04 [6625] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.938 -04 [6625] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:56.939 -04 [6622] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.939 -04 [6622] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.939 -04 [6622] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.939 -04 [6622] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:56.939 -04 [6626] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.939 -04 [6626] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.939 -04 [6626] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.939 -04 [6626] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:56.940 -04 [6627] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:56.940 -04 [6627] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 09:09:56.942 -04 [6629] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.942 -04 [6629] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.942 -04 [6629] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.942 -04 [6629] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:56.943 -04 [6630] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.943 -04 [6630] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.943 -04 [6630] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.943 -04 [6630] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:56.944 -04 [6631] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.944 -04 [6631] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.944 -04 [6631] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.944 -04 [6631] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:56.945 -04 [6628] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:56.945 -04 [6628] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:56.945 -04 [6628] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:56.945 -04 [6628] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
+2025-11-26 09:09:57.978 -04 [6658] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.978 -04 [6658] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:57.978 -04 [6658] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.978 -04 [6658] STATEMENT:  COMMIT
+2025-11-26 09:09:57.979 -04 [6661] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.979 -04 [6661] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.979 -04 [6661] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.979 -04 [6661] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:57.979 -04 [6660] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.979 -04 [6660] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.979 -04 [6660] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.979 -04 [6660] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:57.985 -04 [6665] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.985 -04 [6665] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.985 -04 [6665] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.985 -04 [6665] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:57.985 -04 [6669] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.985 -04 [6669] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.985 -04 [6669] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.985 -04 [6669] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:57.985 -04 [6666] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.985 -04 [6666] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.985 -04 [6666] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.985 -04 [6666] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:57.986 -04 [6667] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.986 -04 [6667] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.986 -04 [6667] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.986 -04 [6667] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:57.986 -04 [6671] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:57.986 -04 [6671] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:57.986 -04 [6671] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:57.986 -04 [6671] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:09:57.987 -04 [6670] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:09:57.987 -04 [6670] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:09:59.013 -04 [6701] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.013 -04 [6701] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:09:59.013 -04 [6701] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.013 -04 [6701] STATEMENT:  COMMIT
+2025-11-26 09:09:59.018 -04 [6708] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.018 -04 [6708] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.018 -04 [6708] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.018 -04 [6708] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:09:59.019 -04 [6714] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.019 -04 [6714] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.019 -04 [6714] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.019 -04 [6714] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:59.019 -04 [6706] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.019 -04 [6706] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.019 -04 [6706] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.019 -04 [6706] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:09:59.019 -04 [6707] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.019 -04 [6707] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.019 -04 [6707] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.019 -04 [6707] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:59.019 -04 [6712] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.019 -04 [6712] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.019 -04 [6712] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.019 -04 [6712] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:09:59.019 -04 [6711] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.019 -04 [6711] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.019 -04 [6711] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.019 -04 [6711] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:09:59.020 -04 [6710] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.020 -04 [6710] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.020 -04 [6710] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.020 -04 [6710] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:09:59.020 -04 [6713] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:09:59.020 -04 [6713] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:09:59.020 -04 [6713] HINT:  The transaction might succeed if retried.
+2025-11-26 09:09:59.020 -04 [6713] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:00.055 -04 [6743] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.055 -04 [6743] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.055 -04 [6743] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.055 -04 [6743] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:10:00.060 -04 [6750] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.060 -04 [6750] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.060 -04 [6750] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.060 -04 [6750] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:10:00.061 -04 [6746] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.061 -04 [6746] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.061 -04 [6746] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.061 -04 [6746] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:10:00.061 -04 [6748] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.061 -04 [6748] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.061 -04 [6748] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.061 -04 [6748] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:00.062 -04 [6752] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.062 -04 [6752] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.062 -04 [6752] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.062 -04 [6752] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:00.062 -04 [6749] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.062 -04 [6749] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.062 -04 [6749] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.062 -04 [6749] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:00.062 -04 [6751] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.062 -04 [6751] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.062 -04 [6751] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.062 -04 [6751] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:00.066 -04 [6753] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:00.066 -04 [6753] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:00.066 -04 [6753] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:00.066 -04 [6753] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:00.066 -04 [6754] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:00.066 -04 [6754] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:10:01.093 -04 [6781] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:01.093 -04 [6781] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:10:01.095 -04 [6787] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.095 -04 [6787] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.095 -04 [6787] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.095 -04 [6787] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:01.096 -04 [6788] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.096 -04 [6788] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.096 -04 [6788] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.096 -04 [6788] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:01.099 -04 [6790] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:01.099 -04 [6790] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 5 AND disp = TRUE
+2025-11-26 09:10:01.101 -04 [6791] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.101 -04 [6791] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.101 -04 [6791] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.101 -04 [6791] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:10:01.105 -04 [6794] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.105 -04 [6794] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.105 -04 [6794] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.105 -04 [6794] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:01.106 -04 [6792] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.106 -04 [6792] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.106 -04 [6792] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.106 -04 [6792] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:01.106 -04 [6796] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.106 -04 [6796] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.106 -04 [6796] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.106 -04 [6796] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:01.107 -04 [6797] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:01.107 -04 [6797] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:01.107 -04 [6797] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:01.107 -04 [6797] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:10:02.134 -04 [6822] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.134 -04 [6822] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:10:02.134 -04 [6822] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.134 -04 [6822] STATEMENT:  COMMIT
+2025-11-26 09:10:02.136 -04 [6823] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.136 -04 [6823] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.136 -04 [6823] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.136 -04 [6823] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:02.138 -04 [6827] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.138 -04 [6827] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.138 -04 [6827] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.138 -04 [6827] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:02.141 -04 [6831] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.141 -04 [6831] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.141 -04 [6831] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.141 -04 [6831] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:02.141 -04 [6830] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.141 -04 [6830] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.141 -04 [6830] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.141 -04 [6830] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:02.144 -04 [6832] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.144 -04 [6832] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.144 -04 [6832] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.144 -04 [6832] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:02.144 -04 [6834] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.144 -04 [6834] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.144 -04 [6834] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.144 -04 [6834] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:02.144 -04 [6836] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:02.144 -04 [6836] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:10:02.148 -04 [6837] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:02.148 -04 [6837] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:02.148 -04 [6837] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:02.148 -04 [6837] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:03.183 -04 [6867] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:03.183 -04 [6867] DETAIL:  Reason code: Canceled on identification as a pivot, during commit attempt.
+2025-11-26 09:10:03.183 -04 [6867] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:03.183 -04 [6867] STATEMENT:  COMMIT
+2025-11-26 09:10:03.184 -04 [6872] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:03.184 -04 [6872] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:03.184 -04 [6872] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:03.184 -04 [6872] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:03.186 -04 [6876] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:03.186 -04 [6876] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:03.186 -04 [6873] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:03.186 -04 [6873] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:03.186 -04 [6873] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:03.186 -04 [6873] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:03.190 -04 [6875] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:03.190 -04 [6875] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:03.192 -04 [6877] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:03.192 -04 [6877] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:03.192 -04 [6878] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:03.192 -04 [6878] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:03.192 -04 [6880] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:03.192 -04 [6880] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:03.192 -04 [6880] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:03.192 -04 [6880] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:03.192 -04 [6879] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:03.192 -04 [6879] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:03.192 -04 [6879] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:03.192 -04 [6879] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.234 -04 [6909] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.234 -04 [6909] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.234 -04 [6914] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.234 -04 [6914] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.235 -04 [6912] ERROR:  could not serialize access due to read/write dependencies among transactions
+2025-11-26 09:10:04.235 -04 [6912] DETAIL:  Reason code: Canceled on identification as a pivot, during write.
+2025-11-26 09:10:04.235 -04 [6912] HINT:  The transaction might succeed if retried.
+2025-11-26 09:10:04.235 -04 [6912] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:04.235 -04 [6916] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.235 -04 [6916] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.235 -04 [6915] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.235 -04 [6915] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.238 -04 [6918] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.238 -04 [6918] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.238 -04 [6919] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.238 -04 [6919] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.238 -04 [6920] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.238 -04 [6920] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:04.240 -04 [6917] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:04.240 -04 [6917] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 4 AND disp = TRUE
+2025-11-26 09:10:05.272 -04 [6946] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.272 -04 [6946] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.277 -04 [6956] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.277 -04 [6956] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.278 -04 [6962] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.278 -04 [6962] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.278 -04 [6958] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.278 -04 [6958] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.278 -04 [6963] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.278 -04 [6963] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.279 -04 [6957] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.279 -04 [6957] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.281 -04 [6960] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.281 -04 [6960] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.281 -04 [6959] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.281 -04 [6959] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:05.282 -04 [6961] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:05.282 -04 [6961] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 1 AND disp = TRUE
+2025-11-26 09:10:45.236 -04 [7774] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:45.236 -04 [7774] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 3 AND disp = TRUE
+2025-11-26 09:10:49.404 -04 [7829] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:49.404 -04 [7829] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 6 AND disp = TRUE
+2025-11-26 09:10:53.624 -04 [7926] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:53.624 -04 [7926] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 2 AND disp = TRUE
+2025-11-26 09:10:54.702 -04 [7971] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:54.702 -04 [7971] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 09:10:55.758 -04 [8014] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:55.758 -04 [8014] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 8 AND disp = TRUE
+2025-11-26 09:10:56.800 -04 [8047] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:56.800 -04 [8047] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 09:10:58.939 -04 [8159] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:10:58.939 -04 [8159] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
+2025-11-26 09:11:00.026 -04 [8242] ERROR:  could not serialize access due to concurrent update
+2025-11-26 09:11:00.026 -04 [8242] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
