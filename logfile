@@ -1339,3 +1339,127 @@
 2025-11-26 11:27:13.767 -04 [41610] HINT:  The transaction might succeed if retried.
 2025-11-26 11:27:13.767 -04 [41610] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 10 AND disp = TRUE
 2025-11-26 11:40:48.051 -04 [39450] LOG:  unexpected EOF on client connection with an open transaction
+2025-11-26 12:09:18.917 -04 [10882] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 12:09:18.917 -04 [10882] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 12:09:18.920 -04 [10882] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 12:09:18.924 -04 [10883] LOG:  database system was shut down at 2025-11-26 12:09:18 -04
+2025-11-26 12:09:18.928 -04 [10882] LOG:  database system is ready to accept connections
+2025-11-26 12:14:45.264 -04 [13682] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 12:14:45.264 -04 [13682] LOG:  could not bind IPv4 address "127.0.0.1": Endereço já em uso
+2025-11-26 12:14:45.264 -04 [13682] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 12:14:45.264 -04 [13682] WARNING:  could not create listen socket for "127.0.0.1"
+2025-11-26 12:14:45.265 -04 [13682] FATAL:  could not create any TCP/IP sockets
+2025-11-26 12:14:45.266 -04 [13682] LOG:  database system is shut down
+2025-11-26 12:14:45.459 -04 [13684] FATAL:  could not open file "global/pg_filenode.map": Arquivo ou diretório inexistente
+2025-11-26 12:14:45.566 -04 [13698] FATAL:  could not open file "global/pg_filenode.map": Arquivo ou diretório inexistente
+2025-11-26 12:14:45.673 -04 [13700] FATAL:  could not open file "global/pg_filenode.map": Arquivo ou diretório inexistente
+2025-11-26 12:14:49.577 -04 [13735] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 12:14:49.578 -04 [13735] LOG:  could not bind IPv4 address "127.0.0.1": Endereço já em uso
+2025-11-26 12:14:49.578 -04 [13735] HINT:  Is another postmaster already running on port 5433? If not, wait a few seconds and retry.
+2025-11-26 12:14:49.578 -04 [13735] WARNING:  could not create listen socket for "localhost"
+2025-11-26 12:14:49.578 -04 [13735] FATAL:  could not create any TCP/IP sockets
+2025-11-26 12:14:49.578 -04 [13735] LOG:  database system is shut down
+2025-11-26 12:15:19.235 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:19.884 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:19.884 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:20.530 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:20.530 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:21.181 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:21.181 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:21.832 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:21.832 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:22.482 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:22.482 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:23.132 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:23.132 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:23.783 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:23.783 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:24.433 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:24.433 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:25.084 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:25.084 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:25.734 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:25.734 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:26.384 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:26.384 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:27.035 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:27.035 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:27.686 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:27.686 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:28.336 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:28.337 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:28.987 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:28.987 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:29.393 -04 [10887] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-11-26 12:15:29.393 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:29.393 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:30.044 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:30.044 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:30.695 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:30.695 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:31.345 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:31.345 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:31.996 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:31.996 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:32.646 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:32.646 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:33.297 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:33.297 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:33.947 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:33.947 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:34.595 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:34.595 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:35.245 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:35.245 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:35.895 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:35.895 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:36.546 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:36.546 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:37.196 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:37.196 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:37.847 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:37.847 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:38.498 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:38.498 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:39.149 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:39.149 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:39.556 -04 [10887] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-11-26 12:15:39.556 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:39.556 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:40.206 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:40.206 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:40.857 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:40.857 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:41.508 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:41.508 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:42.159 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:42.159 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:42.810 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:42.810 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:43.460 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:43.460 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:44.107 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:44.107 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:44.758 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:44.758 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:45.408 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:45.408 -04 [10888] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:45.680 -04 [10882] LOG:  could not open file "postmaster.pid": Arquivo ou diretório inexistente
+2025-11-26 12:15:45.680 -04 [10882] LOG:  performing immediate shutdown because data directory lock file is invalid
+2025-11-26 12:15:45.680 -04 [10882] LOG:  received immediate shutdown request
+2025-11-26 12:15:45.680 -04 [10882] LOG:  could not open file "postmaster.pid": Arquivo ou diretório inexistente
+2025-11-26 12:15:45.681 -04 [10888] LOG:  could not open temporary statistics file "pg_stat/global.tmp": Arquivo ou diretório inexistente
+2025-11-26 12:15:45.688 -04 [10882] LOG:  database system is shut down
+2025-11-26 12:25:08.085 -04 [19002] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 12:25:08.085 -04 [19002] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 12:25:08.088 -04 [19002] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 12:25:08.092 -04 [19003] LOG:  database system was shut down at 2025-11-26 12:25:07 -04
+2025-11-26 12:25:08.095 -04 [19002] LOG:  database system is ready to accept connections
+2025-11-26 12:46:23.587 -04 [117526] ERROR:  relation "assentos" does not exist at character 21
+2025-11-26 12:46:23.587 -04 [117526] STATEMENT:  SELECT num_voo FROM Assentos WHERE disp = TRUE
+2025-11-26 12:46:23.589 -04 [117527] ERROR:  relation "assentos" does not exist at character 22
+2025-11-26 12:46:23.589 -04 [117527] STATEMENT:  SELECT COUNT(*) FROM Assentos WHERE disp = FALSE
+2025-11-26 12:55:54.832 -04 [201675] ERROR:  relation "assentos" does not exist at character 21
+2025-11-26 12:55:54.832 -04 [201675] STATEMENT:  SELECT num_voo FROM Assentos WHERE disp = TRUE
+2025-11-26 12:55:54.834 -04 [201676] ERROR:  relation "assentos" does not exist at character 22
+2025-11-26 12:55:54.834 -04 [201676] STATEMENT:  SELECT COUNT(*) FROM Assentos WHERE disp = FALSE
