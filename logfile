@@ -1162,3 +1162,48 @@
 2025-11-26 09:10:58.939 -04 [8159] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 9 AND disp = TRUE
 2025-11-26 09:11:00.026 -04 [8242] ERROR:  could not serialize access due to concurrent update
 2025-11-26 09:11:00.026 -04 [8242] STATEMENT:  UPDATE Assentos SET disp = FALSE WHERE num_voo = 7 AND disp = TRUE
+2025-11-26 10:14:36.087 -04 [6229] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:14:36.088 -04 [6229] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:14:36.088 -04 [6229] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 10:14:36.089 -04 [6229] LOG:  database system is shut down
+2025-11-26 10:14:44.677 -04 [6376] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:14:44.677 -04 [6376] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:14:44.678 -04 [6376] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 10:14:44.678 -04 [6376] LOG:  database system is shut down
+2025-11-26 10:15:01.125 -04 [6524] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:15:01.125 -04 [6524] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:15:01.126 -04 [6524] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 10:15:01.126 -04 [6524] LOG:  database system is shut down
+2025-11-26 10:15:06.351 -04 [6589] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:15:06.351 -04 [6589] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:15:06.352 -04 [6589] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 10:15:06.352 -04 [6589] LOG:  database system is shut down
+2025-11-26 10:15:21.252 -04 [6726] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:15:21.252 -04 [6726] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:15:21.254 -04 [6726] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 10:15:21.255 -04 [6727] LOG:  database system was shut down at 2025-11-26 10:15:21 -04
+2025-11-26 10:15:21.258 -04 [6726] LOG:  database system is ready to accept connections
+2025-11-26 10:15:21.817 -04 [6726] LOG:  received fast shutdown request
+2025-11-26 10:15:21.824 -04 [6726] LOG:  aborting any active transactions
+2025-11-26 10:15:21.825 -04 [6726] LOG:  background worker "logical replication launcher" (PID 6733) exited with exit code 1
+2025-11-26 10:15:21.825 -04 [6728] LOG:  shutting down
+2025-11-26 10:15:21.831 -04 [6726] LOG:  database system is shut down
+2025-11-26 10:18:43.176 -04 [4985] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:18:43.176 -04 [4985] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:18:43.177 -04 [4985] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 10:18:43.179 -04 [4986] LOG:  database system was shut down at 2025-11-26 10:18:43 -04
+2025-11-26 10:18:43.181 -04 [4985] LOG:  database system is ready to accept connections
+2025-11-26 10:18:43.735 -04 [4985] LOG:  received fast shutdown request
+2025-11-26 10:18:43.742 -04 [4985] LOG:  aborting any active transactions
+2025-11-26 10:18:43.743 -04 [4985] LOG:  background worker "logical replication launcher" (PID 4992) exited with exit code 1
+2025-11-26 10:18:43.743 -04 [4987] LOG:  shutting down
+2025-11-26 10:18:43.749 -04 [4985] LOG:  database system is shut down
+2025-11-26 10:24:57.470 -04 [8273] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:24:57.470 -04 [8273] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:24:57.470 -04 [8273] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permissão negada
+2025-11-26 10:24:57.471 -04 [8273] LOG:  database system is shut down
+2025-11-26 10:25:08.911 -04 [8389] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2025-11-26 10:25:08.911 -04 [8389] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2025-11-26 10:25:08.912 -04 [8389] LOG:  listening on Unix socket "./.s.PGSQL.5433"
+2025-11-26 10:25:08.913 -04 [8390] LOG:  database system was shut down at 2025-11-26 10:25:08 -04
+2025-11-26 10:25:08.916 -04 [8389] LOG:  database system is ready to accept connections
